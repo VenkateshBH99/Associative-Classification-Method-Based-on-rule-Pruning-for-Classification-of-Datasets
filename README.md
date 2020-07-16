@@ -14,6 +14,7 @@ classification showed that APR is highly competitive with other AC and rule-base
 
 #Setup:
 cd APR
+
 set dataset path in validation.py
 
 python validation.py
