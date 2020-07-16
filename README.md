@@ -29,10 +29,6 @@ Results:
   <img src="Screenshots/3.jpg" width="70%" height="70%" />
  </p> 
 
-<h3> Control flow graph </h3>
- <p align="center">
-  <img src="Screenshots/4.jpg" width="70%" height="70%" />
- </p>
    
  <h3> ASD dataset accuracy between CBA and APR algorithm.</h3>     
  <p align="center">
