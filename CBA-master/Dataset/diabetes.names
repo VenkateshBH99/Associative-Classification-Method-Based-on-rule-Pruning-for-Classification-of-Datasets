@@ -1,0 +1,2 @@
+Pregnancies,Glucose,BloodPressure,SkinThickness,Insulin,BMI,DiabetesPedigreeFunction,Age,Class
+numerical,numerical,numerical,numerical,numerical,numerical,numerical,numerical,label
