@@ -11,8 +11,37 @@ in order to further improve the performance of the classifiers-especially predic
 The experimental results obtained from a variety of data sets from the University of California Irvine (UCI) and real data set for adult autism 
 classification showed that APR is highly competitive with other AC and rule-based classifiers and also produces smaller and more accurate classifiers.
 
+Results:
 
-# Setup:
+<h3> Average number of rules between CBA and APR </h3>
+<p align="center">
+<img src="Screenshots/1.jpg" width="70%" height="70%" />
+</p>
+
+ 
+ <h3> Time took to build classifier for CBA and APR (in ms) </h3>
+ <p align="center">
+  <img src="Screenshots/2.jpg" width="70%" height="70%" />
+ </p>
+ 
+ <h3> CBA accuracy vs APR accuracy </h3>
+ <p align="center">
+  <img src="Screenshots/3.jpg" width="70%" height="70%" />
+ </p> 
+
+<h3> Control flow graph </h3>
+ <p align="center">
+  <img src="Screenshots/4.jpg" width="70%" height="70%" />
+ </p>
+   
+ <h3> ASD dataset accuracy between CBA and APR algorithm.</h3>     
+ <p align="center">
+  <img src="Screenshots/4.jpg" width="70%" height="70%" />
+ </p>
+
+
+Quick start
+-----------
 
 cd APR
 
