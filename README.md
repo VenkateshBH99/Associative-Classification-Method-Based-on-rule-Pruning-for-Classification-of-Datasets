@@ -12,7 +12,8 @@ The experimental results obtained from a variety of data sets from the Universit
 classification showed that APR is highly competitive with other AC and rule-based classifiers and also produces smaller and more accurate classifiers.
 
 
-#Setup:
+# Setup:
+
 cd APR
 
 set dataset path in validation.py
